@@ -13,6 +13,7 @@ Modelos  como el modelo Odoo:
 	La propiedad la retiene Odoo
 	Te lo puedes instalar como quieras
 	Te lo puedes personalizar como quieras
+
 Clausulado de la licencia
 
 Garantía
