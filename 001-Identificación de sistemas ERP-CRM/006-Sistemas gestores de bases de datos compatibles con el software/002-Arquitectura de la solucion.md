@@ -1,16 +1,20 @@
-Opciones:
+Arquitectura cliente/servidor
 
-###Prioridad 1
-Relacionales - SQL
-MySQL - PostgreSQL
-Prototipar con SQLite
+Arquitectura web - cliente esté en web
 
-###Prioridad 2
-Documentales:
+Que ocurre en el cliente:
+HTML para la estructura
+CSS para el estilo
+JavaScript para el comportamiento
+Abstraer cliente
+
+Lenguaje de programación en el servidor
+Abstraer servidor 
+PHP + Laravel
+Node.js
+
+SQL
 MongoDB
-
-###Prioridad 3
-Acceso a datos:
-Soluciones personalizadas de gestión de datos
+Personalizados
 
 
